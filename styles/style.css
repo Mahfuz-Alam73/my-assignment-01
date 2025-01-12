@@ -167,3 +167,16 @@ main section{
 .btn-color3{
     background-color: #FFC239;
 }
+
+
+
+
+.donation-buttons, .btn-d{
+    display: flex;
+    padding: 24px;
+    gap: 24px;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    primary font-size: 16px;
+    border-radius: 5px;
+}
