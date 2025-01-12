@@ -1,0 +1,85 @@
+
+
+.work-sans-normal{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+
+
+/* nav style */
+
+.green{
+    color: #006A50;
+}
+.btn-primary{
+background-color: #F5F5F5;
+font-weight: 700;
+font-size: 20px;
+border-radius: 5px;
+color: #006A50;
+padding: 18px 35px;
+border: #006A50;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 100px;
+}
+
+.nav-title{
+    font-weight: 700;
+    font-size: 45px;
+}
+nav ul li {
+    list-style: none;
+    align-items: center;
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: 20px;
+    border: #006A50;
+}
+/* banner styles */
+
+.banner{
+    background-size: 1280px 560px;
+    display: flex;
+    justify-content: space-between;
+    margin: 80px 100px;
+    background-color: #C6E4D6;
+    
+}
+.banner-bd{
+    font-family: 45px;
+    font-weight: 600;
+    color: #0E0E0E;
+}
+
+.banner-content{
+    font-weight: bold;
+    font-size: 56px;
+    max-width: 622px;
+    padding: 120px 60px;
+}
+
+.banner-picture{
+    width: 480px 400px;
+    padding: 80px 60px ;
+}
+
+.explore{
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 17px 35px;
+    border: none;
+}
+}
